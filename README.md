@@ -50,6 +50,8 @@ Bash
 terraform state list
 terraform show
 <img width="492" height="144" alt="state" src="https://github.com/user-attachments/assets/64545d03-1f14-48c0-998a-7f08ef543c9b" />
+
+
 7. Cleaning Up (Destroying Infrastructure)
 After successful execution and saving the logs, safely destroyed the provisioned resources to free up local space:
 
